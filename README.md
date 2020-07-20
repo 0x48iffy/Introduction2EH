@@ -1,6 +1,6 @@
-# Introduction Ethical Hacking
+# Introduction Ethical Hacking :man_technologist:
 
-### Courses Module
+### :pushpin: Courses Module :notebook_with_decorative_cover:
 
 1. What is Ethical Hacking & Cybersecurity
    - Introduction
@@ -62,4 +62,4 @@
    - What to do next / Certifications and Jobs
 
 
-* Doubt Cleaning Sessions 
+#### Doubt Cleaning Sessions :star2:
