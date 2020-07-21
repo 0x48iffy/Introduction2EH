@@ -2,9 +2,9 @@
 
 ![logo](https://raw.githubusercontent.com/0x48iffy/ethicalhackingcourse/master/Untitled%20design.gif)
 
-- [Course Module For Webinar](https://github.com/0x48iffy/ethicalhackingcourse#course-module-for-webinar)
+- [Course Module For Webinar](https://0x48iffy.github.io/ethicalhackingcourse#course-module-for-webinar)
 
-- [Course Module for Training](https://github.com/0x48iffy/ethicalhackingcourse#course-module-for-training)
+- [Course Module for Training](https://0x48iffy.github.io/ethicalhackingcourse#course-module-for-training)
 
 
 
