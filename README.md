@@ -24,18 +24,19 @@
    - Gaining Access
    - Maintaining Access
    - Clearing Tracks
- 
-
 
 3. Anonymous Browsing
    - What is Proxy -Server
    - What is VPN
    - What is TOR
    - About Dark-Deep Web
+   
+4. Basics of Networkings
 
-4. How to practice further and boost up skills & Resources
+5. How to crack password using Hashcat
 
-5. 
+6. How to practice further and boost up skills & Resources
+
 
 ### Course Module for Training>>
 
