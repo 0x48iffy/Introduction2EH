@@ -1,12 +1,12 @@
 # Introduction Ethical Hacking 
 
-#### Courses Module >>
+#### Courses Module>>
 
 ![](https://raw.githubusercontent.com/0x48iffy/ethicalhackingcourse/master/Untitled%20design.gif)
 
 1. What is Ethical Hacking & Cybersecurity
    - Introduction
-   - Difference 
+   - Difference
    - Importance
    - What to Learn
 
@@ -37,6 +37,7 @@
    - What is VPN
    - What is TOR
    - About Dark-Deep Web
+   - **Make your personal VPN for free.**
 
 6. Information Gathering - Various Tools
    - Passive & Active
