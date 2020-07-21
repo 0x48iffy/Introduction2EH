@@ -1,8 +1,41 @@
 # Introduction Ethical Hacking 
 
-#### Courses Module>>
-
 ![](https://raw.githubusercontent.com/0x48iffy/ethicalhackingcourse/master/Untitled%20design.gif)
+
+- [Course Module For Webinar](https://github.com/0x48iffy/ethicalhackingcourse#course-module-for-webinar)
+
+- [Course Module for Training](https://github.com/0x48iffy/ethicalhackingcourse#course-module-for-training)
+
+
+
+#### Course Module for Webinar>>
+
+
+1. What is Ethical Hacking & Cybersecurity
+   - Introduction
+   - Difference
+   - Importance
+   - What to Learn
+
+
+4. The Ethical Hacker Methodology
+   - Recon
+   - Scanning
+   - Gaining Access
+   - Maintaining Access
+   - Clearing Tracks
+ 
+
+
+5. Anonymous Browsing
+   - What is Proxy -Server
+   - What is VPN
+   - What is TOR
+   - About Dark-Deep Web
+
+10. How to practice further and boost up skills & Resources
+
+#### Course Module for Training>>
 
 1. What is Ethical Hacking & Cybersecurity
    - Introduction
