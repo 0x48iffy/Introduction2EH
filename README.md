@@ -2,6 +2,8 @@
 
 #### Courses Module >>
 
+![](https://raw.githubusercontent.com/0x48iffy/ethicalhackingcourse/master/Untitled%20design.gif)
+
 1. What is Ethical Hacking & Cybersecurity
    - Introduction
    - Difference 
