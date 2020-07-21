@@ -6,10 +6,11 @@
 
 - [Course Module for Training](https://0x48iffy.github.io/ethicalhackingcourse#course-module-for-training)
 
+---
 
+### Course Module for Webinar >>
 
-### Course Module for Webinar>>
-
+***
 
 1. What is Ethical Hacking & Cybersecurity
    - Introduction
@@ -19,9 +20,9 @@
 
 
 2. The Ethical Hacker Methodology
-   - Recon
-   - Scanning
-   - Gaining Access
+   - Recon with _kali linux tools_
+   - Scanning with _Namp_
+   - Gaining Access with _Metasploit_
    - Maintaining Access
    - Clearing Tracks
 
@@ -35,10 +36,17 @@
 
 5. How to crack password using Hashcat
 
-6. How to practice further and boost up skills & Resources
+6. Wifi-hacking (changing MAC address, DNS )
+
+7. How to practice further and boost up skills & Resources
 
 
-### Course Module for Training>>
+---
+
+
+### Course Module for Training >>
+
+***
 
 1. What is Ethical Hacking & Cybersecurity
    - Introduction
@@ -62,9 +70,9 @@
    - Bash Script
 
 4. The Ethical Hacker Methodology
-   - Recon
-   - Scanning
-   - Gaining Access
+   - Recon with 
+   - Scanning with 
+   - Gaining Access  
    - Maintaining Access
    - Clearing Tracks
 
@@ -94,11 +102,15 @@
    - Reverse Shell vs Blind Shell
    - Brute force Attack 
    - Password Spraying n Credential Stuffing
+10. Basics of WiFi Hacking
+   - Scripting in Python Intro ( No need to have knowledge about coding)
+   - Writing your Own script to change MAC address
 
-10. How to practice further and boost up skills & Resources
+11. How to practice further and boost up skills & Resources
    - CTFs, Machine (Introduction to HTB, TryHackMe) 
    - Ebooks and resource 
    - What to do next / Certifications and Jobs
 
 
-#### SpacialHelp: Doubt Cleaning Sessions & Mentoring
+ > Spacial Help: Doubt Cleaning Sessions & Mentoring
+
